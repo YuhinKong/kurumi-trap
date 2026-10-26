@@ -1,4 +1,7 @@
 # 股票监控 Agent
+老实赚钱，很枯燥吧！久留美负责心跳加速，我们负责行情监控！A股多源行情、全市场扫描、突破/回踩筛选与风险评估——你的盯盘搭子。
+Making money the honest way is boring, right? Kurumi gets your heart racing; we keep an eye on the market! Multi-source A-share quotes, market-wide screening, breakout/pullback signals, and risk assessment—your market-watching sidekick.
+コツコツ稼ぐなんて、退屈でしょ！ドキドキはくるみちゃんに、相場のチェックは私たちにおまかせ！中国A株の複数ソース株価、全市場スクリーニング、ブレイクアウト・押し目候補の抽出とリスク評価——あなたの相場ウォッチ仲間。
 
 适用于 **Windows / Python 3.13** 的中文A股监控与规则研究工具，使用 Streamlit、AKShare 和 SQLite。支持自选股监控、沪深京全市场分批扫描、突破/回踩规则及费用风控。
 
