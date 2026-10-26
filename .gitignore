@@ -1,0 +1,50 @@
+# Python虚拟环境与缓存
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# 本机数据、个人配置、通知密钥
+data/
+config.json
+config.json.tmp
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.lock
+*.log
+
+# 旧备份和含本机路径的原始测试记录
+.local/
+work/
+outputs/
+升级前备份*/
+全市场升级前备份*/
+validation-*.json
+validation-*.xml
+external-check.json
+test-results.xml
+*.zip
+*.bak
+*.tmp
+
+# 编辑器、操作系统和构建产物
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+build/
+dist/
+*.egg-info/

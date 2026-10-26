@@ -1,0 +1,42 @@
+{
+  "watchlist": [
+    "601728",
+    "601668",
+    "000498",
+    "002376",
+    "600050",
+    "600004"
+  ],
+  "capital": 1000.0,
+  "risk": 50.0,
+  "commission": 0.0003,
+  "minimum_commission": 5.0,
+  "tax": 0.0005,
+  "other_fee": 0.0,
+  "slippage": 0.001,
+  "breakout_volume": 1.5,
+  "pullback_volume": 1.1,
+  "pullback_tolerance": 0.02,
+  "min_amount": 10000000.0,
+  "reward_multiple": 2.0,
+  "close_delay": 20,
+  "request_timeout": 12,
+  "request_gap": 1.0,
+  "retries": 2,
+  "min_reward_risk": 1.5,
+  "cross_tolerance": 0.003,
+  "cross_max_time_gap": 120,
+  "quote_max_age": 180,
+  "quote_cache_seconds": 15,
+  "history_cache_seconds": 120,
+  "pullback_ma": [
+    5,
+    10
+  ],
+  "stop_lookback": 10,
+  "calendar_cache_days": 7,
+  "clock_wait_seconds": 10,
+  "market_batch_size": 10,
+  "market_batch_seconds": 120,
+  "market_interval": 10
+}
